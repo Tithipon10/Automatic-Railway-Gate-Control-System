@@ -11,8 +11,8 @@
 
 // NETPIE Configuration
 const char* publish_topic = "@msg/railway_status";
-const char* ssid = "iPhone ของ Norapat";
-const char* password = "12345678";
+const char* ssid = "Username";
+const char* password = "Password";
 const char* mqtt_server = "mqtt.netpie.io";
 const int mqtt_port = 1883;
 const char* mqtt_Client = "59095768-6d0a-4df4-b690-d94d6c3f57f7";  // เปลี่ยนเป็น Client ID ของคุณ
